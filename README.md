@@ -1,4 +1,4 @@
-# 🤖Pumpfun Bundler3
+# 🤖Pumpfun Bundler
 
 This bot allows you bundle 3 buy transactions on Pumpfun.
 <br />
