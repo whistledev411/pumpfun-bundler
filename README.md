@@ -1,6 +1,6 @@
 # 🤖Pumpfun Bundler
 
-This bot allows you bundle 3 buy transactions on Pumpfun.
+This bot allows you bundle 10 buy transactions on Pumpfun.
 
 ## I have upgraded version that can bundle 28 buys.
 
